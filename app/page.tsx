@@ -64,7 +64,7 @@ export default function HomePage() {
             <div className="md:pt-10">
               <h3 className="text-lg font-semibold mt-4">Invite Friends</h3>
               <p className="text-slate-500">
-                Add expenses that you've paid for or shared with the group.
+                Invite friends to join your group and start sharing expenses.
               </p>
             </div>
             <img
@@ -83,7 +83,8 @@ export default function HomePage() {
             <div className="md:pt-10">
               <h3 className="text-lg font-semibold mt-4">Track Expense</h3>
               <p className="text-slate-500">
-                Let Contri calculate who owes what and settle up with ease.
+                Track expenses and see who owes what in your group and let
+                Contri take care of the rest.
               </p>
             </div>
           </div>
